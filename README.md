@@ -38,7 +38,7 @@ Ensure that you have the following software and libraries installed on your syst
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/cfgindia2023/Team-40.git
+git clone https://github.com/Shree-Gupta27/Screen-Text-Translator-and-Object-Detector.git
 cd Team-40
 ```
 

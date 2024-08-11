@@ -1,5 +1,3 @@
-# Team-40
-
 # Screen Text Translator and Object Detector
 
 ## Description
@@ -94,7 +92,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions to this project are welcome! If you'd like to contribute new features, bug fixes, or improvements, please create a pull request with your changes.
 
-For major changes or significant features, it's recommended to open an issue first to discuss the proposed changes.
+It's recommended to open an issue first to discuss the proposed changes for major changes or significant features.
 
 ## Folder Structure
 
@@ -105,7 +103,3 @@ For major changes or significant features, it's recommended to open an issue fir
 ┣ 📜install_and_run.bat
 ┣ 📜live_experiment.py
 ┗ 📜package-lock.json
-
-## Support
-
-If you encounter any issues, have questions, or need support, feel free to [open an issue](https://github.com/cfgindia2023/Team-40.git) in this repository. We'll be happy to assist you.
